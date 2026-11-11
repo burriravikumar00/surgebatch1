@@ -28,5 +28,3 @@ services:
     image: busybox
     volumes:
       - ./data:/data
-
-  
